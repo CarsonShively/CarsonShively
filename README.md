@@ -2,7 +2,7 @@
 
 Computer Science student at Arizona State University focused on both applied and theoretical machine learning.
 
-I'm especially interested in new ways deep learning and self-supervised learning architectures can be adapted to better fit specific tasks.
+I'm especially interested in new ways deep learning and self-supervised learning architectures can be adapted to better fit more specific tasks.
 
 ### Featured projects
 
