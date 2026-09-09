@@ -1,4 +1,4 @@
-# Hi, I'm Carson
+# Hey, I'm Carson
 
 Computer Science student at Arizona State University focused on both applied and theoretical machine learning.
 
