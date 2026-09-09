@@ -1,26 +1,26 @@
-## Him I'm Carson
+# Hi, I'm Carson
 
 Computer Science student at Arizona State University focused on both applied and theoretical machine learning.
 
-I'm especially interestd in ways deep learning and self supervised learning can be augmented in new ways to be applied better to specific tasks.
+I'm especially interested in new ways deep learning and self-supervised learning architectures can be adapted to better fit specific tasks.
 
 ### Featured projects
 
-#### SSL Enocer Shareability Metric
+#### SSL Encoder Shareability Metric
 
-A metric that caputres the representation retrained by a linear shared encoder from the more computationally demanding searete encoeders. analyzed through theoretical derivation and validation on both synthetic and banchmark datasets.
+A metric that measures how much of the representation learned by separate linear encoders can be retrained by a shared encoder. Analyzed through theoretical derivation and validated on both synthetic and benchmark datasets.
 
 #### Fluency Trainer
 
-A deep learning approach for assessing speech accuracy fluecny prosody and overall quality using a phoneme-audio alignment mattrix.
+A deep learning approach for assessing speech accuracy, fluency, prosody, and overall pronunciation quality using a phoneme-audio alignment matrix.
 
 #### Live Affect Analysis 
 
-Low latency computer vision using task specific spatial attention to estimate seven affect signals from live video.
+Low latency computer vision model using task specific spatial attention to estimate seven affect signals from live video.
 
 ### Technologies
 
-Python, PyTorch, TensorFlow, Sci-kitLeanr, huggingface sql pandas numpy latex Linux 
+Python | PyTorch | TensorFlow | Transformers | FastAPI | Scikit-learn | Hugging Face | SQL | Pandas | NumPy | LaTex | Linux 
 
 ### Currently Working On
 Exploring encoder shareability beyond the controlled linear setting.
